@@ -1,6 +1,6 @@
 # 🥋 Salle de l'Esprit et du Temps — NSI Terminale
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SamiChabbi/salle-de-l-esprit-et-du-temps-eleve/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SamiChabbi/salle-de-l-esprit-et-du-temps-ihad-eleve/main)
 
 Une salle d'entraînement pour trois chapitres de Terminale NSI : **la récursivité**, **diviser pour régner** et **la programmation orientée objet**.
 
