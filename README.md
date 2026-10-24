@@ -10,7 +10,7 @@ Pour chaque chapitre, on a rassemblé une **base d'exercices tombés pour de vra
 
 Chaque notebook a deux parties :
 1. **La méthode** : ce qui tombe le plus, une méthode en 5 étapes, une fiche par type de question (comment la reconnaître, la méthode, un exemple, les pièges), et une fiche réflexe ;
-2. **Les exercices**, du plus simple au plus difficile. Chaque question porte une étiquette 🏷️ qui te dit quelle fiche utiliser.
+2. **Les exercices**, du plus simple au plus difficile, **recopiés tels qu'ils sont tombés** (texte, code et figures d'origine) : comme si tu y étais.
 
 ## Contenu
 
@@ -23,7 +23,7 @@ Chaque notebook a deux parties :
 ## Comment travailler
 
 1. Lire la Partie 1 (la méthode) une première fois.
-2. Faire chaque question **sur papier** d'abord, en suivant la fiche indiquée par l'étiquette 🏷️.
+2. Pour chaque question, reconnaître son type, puis la faire **sur papier** d'abord, en suivant la fiche de ce type.
 3. Recopier son code dans la cellule prévue, puis lancer la cellule **🧪 Tests** : `✔ Tous les tests passent` = gagné.
 4. Pour les questions marquées ✍️, écrire la réponse en français dans la cellule prévue.
 
